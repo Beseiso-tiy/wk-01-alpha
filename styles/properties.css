@@ -1,0 +1,53 @@
+.calm img{
+  width: 400px;
+  height: 200px;
+}
+
+.meter {
+  /*display: non;*/
+  visibility: hidden;
+}
+
+body {
+  font-size: 24px;
+}
+
+p.squirrel{
+  font-size: 1.5rem;
+}
+
+p.not-squirrel {
+  font-size: .75rem;
+}
+
+span.big {
+  font-size: 2em;
+}
+
+img.bordgrooveygreen {
+  margin: 1px;
+  border: .25em groove green;
+  padding: .25em;
+}
+
+img.bordgrooveyaqua {
+  margin: 1px;
+  border: .25em groove aqua;
+  padding: .25em;
+}
+
+img.bordgrooveysky {
+  margin: 1px;
+  border: .25em groove DeepSkyBlue;
+  padding: .25em;
+}
+
+img.bordgrooveyblue {
+  margin: 1px;
+  border: .25em groove blue;
+  padding: .25em;
+}
+
+img.lego{
+  width: 75%;
+}

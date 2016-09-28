@@ -1,0 +1,35 @@
+h2 {
+  color: blue;
+}
+
+.awesome {
+  color: red;
+}
+
+.ninja {
+  border: 2px solid indigo;
+}
+
+#rockstar {
+  font-family: sans-serif;
+}
+
+p.awesome {
+  background-color: #ccc;
+}
+
+p .awesome{
+  background-color: #bada55;
+}
+
+.selectors > p {
+  font-weight: bold;
+}
+
+.selectors > buddha{
+  font-weight: normal;
+}
+
+.selectors img{
+  border: 2px solid darkslateblue;
+}
