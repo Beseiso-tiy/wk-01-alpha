@@ -1,35 +1,44 @@
-h2 {
-  color: blue;
+/*Generals*/
+
+body {
+  padding: 20px;
 }
 
-.awesome {
-  color: red;
+hr {
+  margin: 10px;
+  border-color: white;
+  clear: both;
 }
 
-.ninja {
-  border: 2px solid indigo;
+img{
+  width: 200px;
+  height: 200px;
+  vertical-align: baseline;
+  border: 1px solid #666;
+  background: #999;
 }
 
-#rockstar {
-  font-family: sans-serif;
-}
-
-p.awesome {
-  background-color: #ccc;
-}
-
-p .awesome{
-  background-color: #bada55;
-}
-
-.selectors > p {
-  font-weight: bold;
-}
-
-.selectors > buddha{
-  font-weight: normal;
-}
-
-.selectors img{
+.card-bg{
+  background: #82CAFA;
+  padding: 20px;
+  box-shadow: 0px 0px 0px 20px #3BB9FF inset;
   border: 2px solid darkslateblue;
+}
+
+.box-frmt{
+  border-top-right-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+  text-align: center;
+  color: rgb(64, 80, 89);
+}
+
+ /*Floats */
+.float-left{
+  float: left;
+  margin: 10px 0px 0px 10px;
+}
+
+ /*Clear */
+.clear{
+  clear: both;
 }
