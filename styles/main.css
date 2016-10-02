@@ -1,6 +1,7 @@
 /*Generals*/
 
 body {
+  min-width: 900px;
   padding: 20px;
 }
 
